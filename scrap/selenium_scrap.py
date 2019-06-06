@@ -71,7 +71,7 @@ send_email(
     '[work_id_collect] program has been finished',
     'program has been finished at %s' % (datetime.datetime.now()),
     'alert.by.speechless',
-    '!skrmsptjdwjs9003',
-    'hellossong@gmail.com',
+    'password',
+    'email@gmail.com',
 )
 
